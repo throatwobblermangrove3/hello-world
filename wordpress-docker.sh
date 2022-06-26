@@ -1,5 +1,8 @@
 #!/bin/bash -x
 
+# SECURITY
+# USE YOUR OWN PASSWORD for line 14 MYSQL_ROOT_PASSWORD=
+
 #  See page 17, Chapter 2, Running Software in Containers from the book _Docker_In_Motion_
 
 # Wordpress version 5.7
