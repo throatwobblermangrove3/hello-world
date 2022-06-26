@@ -8,7 +8,7 @@
 
 # Create database
 
-DB_CID=$(docker create -e MYSQL_ROOT_PASSWORD=Ad1scgolf mysql:5.7)
+DB_CID=$(docker create -e MYSQL_ROOT_PASSWORD=mike123 mysql:5.7)
 
 # Start the database
 
